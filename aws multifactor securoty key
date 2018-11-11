@@ -1,0 +1,27 @@
+
+aws multifactor authenticator secret key:
+ HYRGNNK3477N3227RX2V6I7V7IDTJVYZF5XOPHKIEGSZSE6NOOPHL7BXAL6LLKRI 
+
+git cloning from ubuntu:
+
+git clone <url of thet repositoty>
+
+
+
+
+first of all we have to create one directory then after open that 
+by default web server is at:
+	cd /var/www/html/
+then create directory:	mkdir doctorWebsite
+then open:	cd doctorWebsite
+then initiate git:	git init
+then give git clone:git clone <ip address of the bit bucket repository>
+note	find / |grep html
+	cd websirecreater/
+	ls
+	git status
+	git add .
+	git push origin master
+
+
+

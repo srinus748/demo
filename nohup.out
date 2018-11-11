@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 4 srinu srinu 4096 Nov  6 11:02 .
+drwxr-xr-x 8 srinu srinu 4096 Oct 25 11:37 ..
+-rw-r--r-- 1 srinu srinu 1692 Jan 19  2017 awsmanagekey.pem
+-rw-r--r-- 1 srinu srinu  559 Oct  7 17:40 aws multifactor securoty key
+-rw-r--r-- 1 srinu srinu   11 Oct  1 21:08 firstFile.txt
+drwxr-xr-x 8 srinu srinu 4096 Oct  1 21:26 .git
+-rw------- 1 root  root     0 Nov  6 11:02 nohup.out
+-rw-r--r-- 1 srinu srinu   58 Oct  1 21:08 README.md
+drwxrwxrwx 2 root  root  4096 Nov  5 21:38 sri
+-rw-r--r-- 1 srinu srinu   90 Nov  5 21:16 sri1.txt
+-rw-r--r-- 1 srinu srinu    8 Oct  4 17:22 sri.txt
+-rw-r--r-- 1 srinu srinu   36 Oct  1 21:08 text.txt
